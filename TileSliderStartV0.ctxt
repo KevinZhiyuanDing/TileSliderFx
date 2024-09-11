@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TileSliderStartV0
+comment0.text=\r\n\ Tile\ Slider\ Assignment\r\n\ This\ is\ a\ sliding\ puzzle,\ a\ combination\ puzzle\ that\ challenges\ a\ player\ to\ slide\ pieces\ along\ certain\ routes\ on\ a\ board\ to\ establish\ \r\n\ a\ certain\ end-configuration.\ (wikipedia)\r\n\r\n\ Kevin\ Ding\r\n\ April\ 20,\ 2021\r\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=event
+comment2.target=void\ handle(javafx.scene.input.KeyEvent)
+comment3.params=event
+comment3.target=void\ handleKeyPress(javafx.scene.input.KeyEvent)
+comment4.params=event
+comment4.target=void\ buttonPressed(javafx.event.ActionEvent)
+comment4.text=\r\n\ What\ happens\ when\ the\ buttons\ are\ pressed\r\n
+comment5.params=col\ row\ image
+comment5.target=void\ replaceTile(int,\ int,\ javafx.scene.image.Image)
+comment5.text=\r\n\ This\ method\ will\ replace\ an\ image\ in\ the\ gridPane\ with\ a\ new\ one\r\n
+numComments=6
